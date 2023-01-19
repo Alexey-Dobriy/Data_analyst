@@ -33,3 +33,4 @@
 * Pandas
 * Numpy
 * Matplotlib
+* Seaborn
