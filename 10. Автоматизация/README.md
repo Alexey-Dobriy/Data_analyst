@@ -17,3 +17,4 @@
 * Tableau
 * Продуктовые метрики
 * Построение дашбордов
+Дашборд: https://public.tableau.com/views/YP11_16677177733750/sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
